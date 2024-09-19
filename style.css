@@ -1,0 +1,98 @@
+/*common CSS*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+.container {
+
+max-width: 90%;
+display: block;
+margin: 0 auto;
+
+}
+
+.header-area {
+  box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+
+
+}
+
+.logo {
+ margin: 20px 0;
+
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.menu ul {
+  display: flex;
+  list-style-type: none;
+  gap: 80px;
+  text-decoration: none;
+}
+
+.menu ul li a {
+  text-decoration: none;
+}
+
+.button .btn {
+text-decoration: none;
+background-color: rgb(80, 80, 250);
+border-radius: 4px;
+color: aliceblue;
+padding: 10px 24px;
+display: inline-block;
+
+
+}
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.hero-text .hero-tittle {
+
+  font-family: "Inter", sans-serif;
+
+
+}
+
+p .hero-pera {
+
+  font-family: "Inter", sans-serif;
+
+}
+
+.highlight {
+ 
+  color: rgb(74, 36, 243);
+
+}
+
+.hero {
+
+  display: flex;
+  text-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+
+
+.hero-banner{
+ 
+
+  
+
+}
